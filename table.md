@@ -6,7 +6,7 @@
 ## Control characters
 
 | Id   | Symbole | Description |
-| :--- | :------ | : --------- |
+| --- | ------ |  --------- |
 | 0    | NULL    | Null char |
 | 1    | SOH     | Start Of Header |
 | 2    | STX     |Start of Text|
@@ -45,7 +45,7 @@
 
 ## Printable characters
 | Id   | Symbole | Description |
-| :--- | :------ | : --------- |
+| --- | ------ |  --------- |
 | 32   |  |Space|
 | 33   | !       ||
 | 34   | "       ||
@@ -147,7 +147,7 @@
 ## Extended Ascii
 
 | Id   | Symbole | Description |
-| :--- | :------ | : --------- |
+| --- | ------ |  --------- |
 | 128  | Ç       ||
 | 129  | ü       ||
 | 130  | é       ||
@@ -282,7 +282,7 @@
 ## Box Drawing
 
 | Id   | Symbole | Description |
-| :--- | :------ | ----------- |
+| --- | ------ | ----------- |
 | 179  | │       ||
 | 180  | ┤       ||
 | 185  | ╣       ||
@@ -311,7 +311,7 @@
 ## Graphic
 
 | Id   | Symbole | Description |
-| :--- | :------ | ----------- |
+| --- | ------ | ----------- |
 | 176  | ░       ||
 | 177  | ▒       ||
 | 178  | ▓       ||
@@ -325,7 +325,7 @@
 ## Mathematics
 
 | Id   | Symbole | Description |
-| :--- | :------ | : --------- |
+| --- | ------ | --------- |
 | 155  | ø       ||
 | 157  | Ø       ||
 | 158  | ×       ||
